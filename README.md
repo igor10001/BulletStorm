@@ -1,5 +1,5 @@
 # BulletStorm
-pause - esc.
-w a s d - movement.
-shift - run.
-right mouse - aim.
+pause - esc<br>
+w a s d - movement<br>
+shift - run<br>
+right mouse - aim<br>
